@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import streamlit as st
 from gemini_utils import generate_summary, generate_flashcards, chat_with_text
 
