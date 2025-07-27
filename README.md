@@ -1,6 +1,12 @@
 # Gemini Scholar
 
 A smart flashcard generator that helps you make study notes and flashcards from PDFs using AI. Born from the frustration of switching between PDFs and notes during exams.
+![Gemini Scholar Demo](images/demo.png)
+
+## Try it Out
+
+[Click here to use Gemini Scholar](https://gemini-scholar.streamlit.app)
+
 
 ## Features
 
@@ -37,3 +43,4 @@ touch .env
 
 # Run the app
 streamlit run app.py
+
