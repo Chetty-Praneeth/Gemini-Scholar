@@ -11,7 +11,7 @@ venv/
 
 # VSCode settings (optional, remove if not using VS Code)
 .vscode/
-
+.devcontainer
 # macOS system files
 .DS_Store
 
